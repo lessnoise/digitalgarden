@@ -16,14 +16,13 @@
 - **📰 [[优质长文分享\|优质长文分享]]**
 
 
-> [!tip]+ 最新内容 
-> - ```dataview
-table without id
-file.link as Note,
-file.folder as Folder,
-file.mtime as "Last Modified"
-FROM -"Dailies"
-where file.mtime > (date(now) - dur(12 hours))
-sort file.mtime desc
+| Note                                                | Folder    | Last Modified            |
+| --------------------------------------------------- | --------- | ------------------------ |
+| [[HOME\|HOME]]                                   |           | 3:22 PM - March 22, 2024 |
+| [[个人知识管理\|个人知识管理]]                               |           | 3:15 PM - March 22, 2024 |
+| [[优质长文分享\|优质长文分享]]                               |           | 3:15 PM - March 22, 2024 |
+| [[🔗 双链博客说明书\|🔗 双链博客说明书]]                       |           | 3:10 PM - March 22, 2024 |
+| [[Clippings/利用obsidian构建个人博客\|利用obsidian构建个人博客]] | Clippings | 2:33 PM - March 22, 2024 |
 
-👉 [[About Me\|About Me]]
+{ .block-language-dataview}
+
