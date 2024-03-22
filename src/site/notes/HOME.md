@@ -4,7 +4,5 @@
 
 这是我的数字花园 
 
-https://pbs.twimg.com/media/E2fd4m-WEAIXFaL?format=jpg&name=small
 
-
-
+![garden-main_ayoaqo_shrink_szbgc7.webp](/img/user/garden-main_ayoaqo_shrink_szbgc7.webp)
